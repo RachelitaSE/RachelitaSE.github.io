@@ -30,4 +30,3 @@ Feel free to connect via LinkedIn or send me a message on GitHub. I’m always h
 
 ---  
 © 2025 Rachel Steinitz Eliyahu  
-
