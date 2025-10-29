@@ -1,0 +1,58 @@
+# ─────────────────────────────────────────────────────────────
+# Site settings
+# ─────────────────────────────────────────────────────────────
+title: "Rachel Steinitz Eliyahu"
+description: "Graduate Student · Materials & Interfaces · Weizmann Institute"
+url: "https://rachelitase.github.io"   # ← change to your actual USERNAME.github.io
+author: "Rachel Steinitz Eliyahu"
+timezone: "Asia/Jerusalem"
+lang: "en"
+
+# ─────────────────────────────────────────────────────────────
+# Theme
+# ─────────────────────────────────────────────────────────────
+theme: jekyll-theme-minimal
+
+# Show these pages as top navigation (create matching files)
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+
+# Optional: a small logo (add /assets/profile.jpg and uncomment)
+# logo: /assets/profile.jpg
+
+# ─────────────────────────────────────────────────────────────
+# Plugins (all are GitHub Pages–safe)
+# ─────────────────────────────────────────────────────────────
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# SEO/social metadata (used by jekyll-seo-tag)
+social:
+  name: "Rachel Steinitz Eliyahu"
+  links:
+    - "https://github.com/RachelitaSE"
+    - "https://www.linkedin.com/in/rachel-steinitz-eliyahu-aaa4b2186/"
+    - "https://www.weizmann.ac.il/MCMS/Sivan/home"
+
+# Footer
+footer_links:
+  github: "https://github.com/RachelitaSE"
+  linkedin: "https://www.linkedin.com/in/rachel-steinitz-eliyahu-aaa4b2186/"
+  lab: "https://www.weizmann.ac.il/MCMS/Sivan/home"
+
+# ─────────────────────────────────────────────────────────────
+# Build settings
+# ─────────────────────────────────────────────────────────────
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude unnecessary files from the site build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
