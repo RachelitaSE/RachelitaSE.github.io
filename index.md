@@ -14,7 +14,7 @@ Hello! I’m Rachel Steinitz Eliyahu, a graduate student at the Weizmann Institu
 - 🧪 [Lab Page: Theory of Excited-State Phenomena in Materials](https://www.weizmann.ac.il/MCMS/Sivan/home)  
 
 ## What I’m Doing  
-Currently working in the Refaely-Abramson Lab focusing on the code development of our latest paper on the Exact-factorization DFPT (https://journals.aps.org/prb/pdf/10.1103/dmpv-zqdh).  
+Currently working in the Refaely-Abramson Lab focusing on the code development of our latest paper on the Exact-factorization DFPT [EF-DFPT paper](https://journals.aps.org/prb/pdf/10.1103/dmpv-zqdh).  
 
 
 ## Projects & Skills  
