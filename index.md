@@ -1,30 +1,50 @@
 ---
-title: Rachel Steinitz Eliyahu  
-description: PhD Student · Materials & Interfaces · Weizmann Institute  
+title: "Rachel Steinitz Eliyahu"
+layout: default
 ---
 
-# Rachel Steinitz Eliyahu 👋  
-*PhD Student in the [Refaely-Abramson Lab](https://www.weizmann.ac.il/MCMS/Sivan/home)*  
+# 👋 Hi, I'm Rachel Steinitz Eliyahu
+*PhD Student in the [Refaely-Abramson Lab](https://www.weizmann.ac.il/MCMS/Sivan/home), Weizmann Institute of Science*
 
-## About Me  
-Hello! I’m Rachel Steinitz Eliyahu, a graduate student at the Weizmann Institute of Science (Department of Materials & Interfaces). My research interests revolve around the physics of non-adiabatic phenomena in materials — from the development of the theory through the code to understanding interesting phenomenas. 
-## Links & Profiles  
-- 🔗 [GitHub: RachelitaSE](https://github.com/RachelitaSE)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rachel-steinitz-eliyahu-aaa4b2186/)  
-- 🧪 [Lab Page: Theory of Excited-State Phenomena in Materials](https://www.weizmann.ac.il/MCMS/Sivan/home)  
+Welcome to my personal website!  
+Here you can learn more about my research, projects, and interests in computational materials science.
 
-## What I’m Doing  
-Currently working in the Refaely-Abramson Lab focusing on the code development of our latest paper on the Exact-factorization DFPT [EF-DFPT paper](https://journals.aps.org/prb/pdf/10.1103/dmpv-zqdh).  
+---
 
+<div style="display:flex; gap:0.8rem; flex-wrap:wrap;">
+  <a class="button" href="/index.html">🏠 Home</a>
+  <a class="button" href="/about.html">👩‍🔬 About</a>
+  <a class="button" href="/projects.html">📂 Projects</a>
+  <a class="button" href="/contact.html">📫 Contact</a>
+</div>
 
-## Projects & Skills  
-- **Computational Materials Science**: Many-body perturbation theory, GW/BSE methods, density functional theory (DFT), density functional perturbation theory (DFPT)
-- **Theory development**: Expanding the theory of Exact factorization to the solid state. 
-- **Programming & Automation**: Python scripting, data analysis, high-performance computing workflows  
+---
 
+## 🔬 Research Interests
+- Excited-state phenomena in materials  
+- Many-body perturbation theory (GW/BSE)  
+- Density functional theory (DFT) and Density functional perturbation theory (DFPT)  
+- Non- adiabatic electron–phonon coupling  
 
-## Connect with Me  
-Feel free to connect via LinkedIn or send me a message on GitHub. 
+---
 
----  
-© 2025 Rachel Steinitz Eliyahu  
+## 💡 Current Work
+I’m currently working in the **Refaely-Abramson Lab**, studying the physics of excited states in complex materials and developing computational workflows for energy and quantum materials.
+
+---
+
+## 🧰 Tech & Tools
+- Python, NumPy, Scipy  
+- Quantum ESPRESSO, BerkeleyGW, EPW  
+- Linux, HPC clusters  
+
+---
+
+## 🌐 Find Me Online
+- [GitHub](https://github.com/RachelitaSE)  
+- [LinkedIn](https://www.linkedin.com/in/rachel-steinitz-eliyahu-aaa4b2186/)  
+- [Refaely-Abramson Lab](https://www.weizmann.ac.il/MCMS/Sivan/home)
+
+---
+
+© 2025 Rachel Steinitz Eliyahu
