@@ -25,8 +25,7 @@ Here you can find my work on computational materials science and recent publicat
   *Rachel Steinitz Eliyahu, Sivan Refaely-Abramson, et al.*  
   [Phys. Rev. Materials 6, 065402 (2022)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.065402)
 
-- **Nonadiabaticity from first principles: Exact-factorization approach for solids
- (Physical Review B)**  
+- **Nonadiabaticity from first principles: Exact-factorization approach for solids**  
   *Rachel Steinitz Eliyahu, Sivan Refaely-Abramson, et al.*  
   [Phys. Rev. B — DMPV-ZQDH (2024)](https://journals.aps.org/prb/abstract/10.1103/dmpv-zqdh)
 
